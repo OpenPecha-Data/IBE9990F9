@@ -1,0 +1,18 @@
+id: IBE9990F9
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:46.256173
+last_modified: 2023-01-04 11:30:46.256192
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  FE08:
+    title: A Profound and Concise Guru Yoga
+    base_file: FE08.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
